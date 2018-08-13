@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: Lavinia's summer project
 subtitle: Is Steph Curry really in the 50 40 90 club?
 gh-repo: SandyaS72/SandyaS72.github.io
