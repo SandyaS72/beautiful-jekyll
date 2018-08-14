@@ -22,7 +22,7 @@ tags: [test]
 
 Here is an example of one player's score 
 
-![PlayerA](https://drive.google.com/file/d/16ANYMJOTkBxbiO8_RkfiPHK7-lxo913W/view?usp=sharing)
+![PlayerA](https://www.dropbox.com/s/y4as65s4k16koqk/player%20A.jpg?dl=0)
 
 Here's a useless table:
 
