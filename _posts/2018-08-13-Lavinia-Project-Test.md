@@ -20,6 +20,10 @@ tags: [test]
   I would want Player B on my team because he has attempted more shots and still maintained the same shooting percentage. Therefore, there is less uncertainty regarding his shooting ability. Player B has attempted more shots and replicated successful shots more times, and because of that we feel more confidence in Player B’s ability to successfully throw free throws. For Player A, while not necessarily the case, it is much more likely that he had a series of lucky shots that happened to go in. Because 10 shots is such a small number of attempts, we don’t know if successfully making 9 out of 10 shots was pure luck, pure skill, or somewhere in between, whereas successfully making 90 out of 100 free throws is a lot more representative of actual shooting skill, rather than just luck. Of course it is possible that Player B just had a series of lucky shots, but given he attempted 100 shots, this is a lot less likely. As the club currently stands, shooting percentage is the only factor that matters.
 
 
+Here is an example of one player's score 
+
+![PlayerA]https://drive.google.com/file/d/16ANYMJOTkBxbiO8_RkfiPHK7-lxo913W/view?usp=sharing)
+
 Here's a useless table:
 
 | Number | Next number | Previous number |
@@ -28,11 +32,6 @@ Here's a useless table:
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Here's a code chunk:
 
