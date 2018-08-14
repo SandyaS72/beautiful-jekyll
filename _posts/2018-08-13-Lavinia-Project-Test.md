@@ -23,7 +23,9 @@ tags: [test]
 Here is an example of two players' scores:
 
 ![Player A](https://lh3.googleusercontent.com/JZi4BOAjDwbWkv5dP4VrBU5yszZK0CXyBXrtnx_3yintCOI8rDyuFUN733JSI31bXr3gMbQ9Mv1wgfaLUjv5nMCXKkMh4Q8iDWTKFT52GmJsRD3c0fI0GMfAnrH6hbtcyVmXrFh1=w2400)
-![Player B] (https://lh3.googleusercontent.com/0Jv_oPqwTic94Z7vGUbTggO5uk4GlHr5laI_zLynNOUI-OVp-d_PMOrUdVpnzzPaLvX1s_6L__G6E_FB72_c2jwiZPbSyu5TYIR7kpmWXnAKv0RVFCu6636-S_13lsBvORV5iWqI=w2400)
+
+
+![Player B](https://lh3.googleusercontent.com/0Jv_oPqwTic94Z7vGUbTggO5uk4GlHr5laI_zLynNOUI-OVp-d_PMOrUdVpnzzPaLvX1s_6L__G6E_FB72_c2jwiZPbSyu5TYIR7kpmWXnAKv0RVFCu6636-S_13lsBvORV5iWqI=w2400)
 
 Here's a useless table:
 
