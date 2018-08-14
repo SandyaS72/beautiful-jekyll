@@ -20,9 +20,10 @@ tags: [test]
   I would want Player B on my team because he has attempted more shots and still maintained the same shooting percentage. Therefore, there is less uncertainty regarding his shooting ability. Player B has attempted more shots and replicated successful shots more times, and because of that we feel more confidence in Player B’s ability to successfully throw free throws. For Player A, while not necessarily the case, it is much more likely that he had a series of lucky shots that happened to go in. Because 10 shots is such a small number of attempts, we don’t know if successfully making 9 out of 10 shots was pure luck, pure skill, or somewhere in between, whereas successfully making 90 out of 100 free throws is a lot more representative of actual shooting skill, rather than just luck. Of course it is possible that Player B just had a series of lucky shots, but given he attempted 100 shots, this is a lot less likely. As the club currently stands, shooting percentage is the only factor that matters.
 
 
-Here is an example of one player's score 
+Here is an example of two players' scores:
 
-![PlayerA](https://lh3.googleusercontent.com/JZi4BOAjDwbWkv5dP4VrBU5yszZK0CXyBXrtnx_3yintCOI8rDyuFUN733JSI31bXr3gMbQ9Mv1wgfaLUjv5nMCXKkMh4Q8iDWTKFT52GmJsRD3c0fI0GMfAnrH6hbtcyVmXrFh1=w2400)
+![Player A](https://lh3.googleusercontent.com/JZi4BOAjDwbWkv5dP4VrBU5yszZK0CXyBXrtnx_3yintCOI8rDyuFUN733JSI31bXr3gMbQ9Mv1wgfaLUjv5nMCXKkMh4Q8iDWTKFT52GmJsRD3c0fI0GMfAnrH6hbtcyVmXrFh1=w2400)
+![Player B] (https://lh3.googleusercontent.com/0Jv_oPqwTic94Z7vGUbTggO5uk4GlHr5laI_zLynNOUI-OVp-d_PMOrUdVpnzzPaLvX1s_6L__G6E_FB72_c2jwiZPbSyu5TYIR7kpmWXnAKv0RVFCu6636-S_13lsBvORV5iWqI=w2400)
 
 Here's a useless table:
 
