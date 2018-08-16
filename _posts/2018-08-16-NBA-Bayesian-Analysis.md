@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 50 40 90 Club Part II: The Bayesian approach in more detail
+title: Is anyone really in the 50 40 90 club?
 subtitle: Lavinia's summer project
 gh-repo: SandyaS72/SandyaS72.github.io
 gh-badge: [star, fork, follow]
