@@ -88,8 +88,8 @@ When we take a look at the club this way, surprisingly, no player is qualified t
 | Player | Team | Season | FG % | 95% FG confidence interval | 3P % | 95% 3P confidence interval | FT % | 95% FT confidence interval|
 | :------ |:--- | :--- |
 | Larry Bird | Boston Celtics | '86-'87 | 786/1497 (0.53) | (**0.4998**,0.5503) | 90/225 (0.40) | (**0.3360**,0.4640) | 414/455 (0.91) | (**0.8836**,0.9362) |
-| Larry Bird | Boston Celtics | '87-'88 | 
-| Mark Price | Cleveland Cavaliers | '88-'89 |
+| Larry Bird | Boston Celtics | '87-'88 | 881/1672 (0.53) | (**0.5030**,0.5508) | 98/237 (0.41) | (**0.3508**,0.4762) | 415/453 (0.92) | (**0.8906**,0.9416) |
+| Mark Price | Cleveland Cavaliers | '88-'89 | 529/1006 (0.53) | (**0.4950**,0.5567) | 93/211 (0.44) | (**0.3738**,0.5077) | 263/292 (0.90) | (**0.8664**,0.9350) |
 | Reggie Price | Indiana Pacers | '93-'94 |
 | Steve Nash | Phoenix Suns | '05-'06 |
 | Dirk Nowitzki | Dallas Mavericks | '06-'07 |
