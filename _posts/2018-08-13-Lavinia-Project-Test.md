@@ -32,9 +32,9 @@ In the case of basketball scoring, what determines how certain (or uncertain) we
 ## Margin of error
 
 This is mathematically represented by the calculation for [margin of error](https://en.wikipedia.org/wiki/Margin_of_error) :
-	\\[ \frac{1}{sqrt{n}} \\]
+	\\[ \frac{1}{n^{2}} \\]
 where n is the number of shots attempted.
-	Player A: \\[ ME=110=0.3162 \\]
+	Player A: \\[ \ME=110=0.3162 \\]
 	Player B: ME=1100=0.1
 What we arrived at earlier intuitively, we now demonstrate mathematically. For Player A, we can be reasonably certain that his actual shooting percentage is within 0.3 of 0.5, and for Player B we can be reasonably certain that his actual shooting percentage is within 0.1 of 0.5.
 
