@@ -32,7 +32,7 @@ In the case of basketball scoring, what determines how certain (or uncertain) we
 ## Margin of error
 
 This is mathematically represented by the calculation for [margin of error](https://en.wikipedia.org/wiki/Margin_of_error) :
-	ME=1/\sqrt{n}
+	\[ME=1/n\]
 where n is the number of shots attempted.
 	Player A: ME=110=0.3162
 	Player B: ME=1100=0.1
