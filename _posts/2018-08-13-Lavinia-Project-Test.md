@@ -61,7 +61,7 @@ Given a confidence interval, the actual shooting percentage can fall ANYWHERE in
 So, how much better than the threshold will a player have to shoot to be admitted into the club? That will depend on the number of shots the player attempts. More shots attempted will lead to a narrower confidence interval, so the proportion observed won’t have to be as high for the lower bound of the confidence interval to be above the threshold for inclusion in the club. 
 
 {: .box-note}
-**Key Takeaway:** Players must actually shoot above the required thresholds for inclusion in the club in order to be 95% confident that their performance is actually above those thresholds.
+**Key Takeaway:** Players must actually shoot above the required thresholds for inclusion in the club in order to be 95% confident that their performance is actually above those thresholds. How far above depends on the number of shots attempted.
 
 ## An Example
 
