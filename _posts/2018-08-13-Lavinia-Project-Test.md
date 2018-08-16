@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Steph Curry really in the 50 40 90 club?
+title: Is anyone really in the 50 40 90 club?
 subtitle: Lavinia's summer project
 gh-repo: SandyaS72/SandyaS72.github.io
 gh-badge: [star, fork, follow]
@@ -81,7 +81,7 @@ To more accurately reflect the actual skill of the player, club membership shoul
 When we take a look at the club this way, surprisingly, no player is qualified to be in the club. A few players currently in the club can qualify for one of the three types of shots, but no player can shoot at or above the cutoff for membership for all three types of shots with 95% confidence. 
 
 {: .box-note}
-**Key Takeaway:** No one makes the club.
+**Key Takeaway:** No NBA player has made the 50 40 90 club.
 
 **Table of All Players and Seasons claimed against Confidence Intervals**
 
