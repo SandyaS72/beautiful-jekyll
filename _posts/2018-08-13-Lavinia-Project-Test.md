@@ -69,10 +69,10 @@ So, how much better than the threshold will a player have to shoot to be admitte
 
 Looking at the confidence intervals for Players A and B below, we see that we can be reasonably certain that Player A makes above 19% of field goals and Player B makes above 40% of field goals, but, as discussed, this is not good enough to qualify for the 50% required by the club. 
 
-![Player A](https://lh3.googleusercontent.com/2yHd4porX7cvjTXe454vKFTBJnKBgLr3j7uQ-JNUMoYUdBhpj9_kvLOLk_OjPXKi65Jlp2fNEAbQAlYWbpIfzxSL8V7pc6jOpEBIDG8qg8r0yMj-ejQByohha4tvk5Su7m4Ou4sg=w2400)
+![Player A](https://lh3.googleusercontent.com/hvNZnpwZfGqFvRHcAWTSV3tyYoPaqDNJlSx9_8jSOqgJ6HMvtaqX8ItaIDKh334TVhyzjlKDyhMoNgXctumjK970-eLc2LVO3fOZagnIwDGDLoGz-phrcawCPoYgy5UPdRTornCg=w2400)
 
 
-![Player B](https://lh3.googleusercontent.com/JqK5-RmpjvgAslIS87DzAnxbvXGk119W300x4AT7BiBqnupKjV6bM8M62xyo__d2LTolsqWMpmjeMuP4RUcigB3hqhfVblyRrutb3emWiO24_VPwQvMIl_ClGQxn5--7FEGud8Y5=w2400)
+![Player B](https://lh3.googleusercontent.com/ApesWsqeuIQhbdnQgFuGscvonMq2PTg5F-K9EFET2nlgTsDipLnF3f9-l_RshLRhnWbIf0mIyCrkervpeJP3eD1FKCUAQNm8YsUpOHyggLNTzxwI48__idU260CUthmfmC1cAlMb=w2400)
 
 ## The Bottom Line
 
