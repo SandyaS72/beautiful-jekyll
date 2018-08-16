@@ -21,7 +21,7 @@ The fact that they both have the same shooting percentage does not make them equ
 
 For Player A, while not necessarily the case, it is much more likely that he had a series of lucky shots that happened to go in. Because 10 shots is such a small number of attempts, we don’t know if successfully making 5 out of 10 shots was pure luck, pure skill, or somewhere in between, whereas successfully making 50 out of 100 field is a lot more representative of actual shooting skill, rather than just luck. As the club currently stands, shooting percentage is the only factor that matters.
 
-## A small thought experiment
+### A small thought experiment
 
 Now, let’s say you called both Players A and B into a room and had them each attempt 100 field goals. What range would you be willing to put money on them being able to achieve?
 
