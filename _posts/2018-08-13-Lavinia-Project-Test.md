@@ -96,8 +96,8 @@ When we take a look at the club this way, surprisingly, no player is qualified t
 | Steve Nash | Phoenix Suns | '07-'08 | 485/962 (0.50) | (**0.4762**,0.5358) | 179/381 (0.47) | (**0.4197**,0.5199) | 222/245 (0.91) | (**0.8696**,0.9426) |
 | Steve Nash | Phoenix Suns | '08-'09 | 428/851 (0.50) | (**0.4692**,0.5365) | 108/246 (0.44) | (**0.3770**,0.5010) | 196/210 (0.93) | (**0.8996**,0.9671) |
 | Steve Nash | Phoenix Suns | '09-'10 | 499/985 (0.51) | (**0.4754**,0.5378) | 124/291 (0.43) | (**0.3693**,0.4829) | 211/225 (0.94) | (**0.9062**,0.9693) |
-| Kevin Durant | Golden State Warriors | '12-'13 |
-| Steph Curry | Golden State Warriors | '15-'16 |
+| Kevin Durant | Golden State Warriors | '12-'13 | 731/1433 (0.51) | (**0.4842**,0.5360) | 139/334 (0.42) | (**0.3633**,0.4690) | 679/750 (0.91) | (**0.8844**,0.9263) |
+| Steph Curry | Golden State Warriors | '15-'16 | 805/1598 (0.50) | (**0.4792**,0.5283) | 402/886 (0.45) | (**0.4209**,0.4865) | 363/400 (0.91) | (**0.8791**,0.9359) |
 
 
 *Acknowledgements: Professor Emery N. Brown, Massachusetts Institute of Technology*
