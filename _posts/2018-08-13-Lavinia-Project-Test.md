@@ -29,6 +29,9 @@ Maybe you would be willing to bet on Player B making between 40 and 60 of his fi
 
 In the case of basketball scoring, what determines how certain (or uncertain) we are about a players scoring ability? When comparing Players A and B, we had less uncertainty about Player B’s scoring ability because he attempted more shots. For example, if Player B had made 5 out 100 shots, we would still be more certain about his scoring abilities than Player A’s, not because Player B made more shots, but because he attempted more. **Therefore, the uncertainty about a player’s scoring ability is based upon how many shots that player attempts, not the number of shots he makes.** 
 
+{: .box-note}
+**Key Takeaway:** Uncertainty depends on the total number of trials, not the number of successes.
+
 ## Margin of error
 
 This is mathematically represented by the calculation for [margin of error](https://en.wikipedia.org/wiki/Margin_of_error) :
@@ -44,7 +47,8 @@ Because there is a degree of uncertainty that comes from taking just one sample,
 
 If we were REALLY invested in figuring out the actual shooting percentages of Players A and B, we could take an infinite number of random samples of the same size. However, not only would this be extremely inconvenient, it would be outright impossible. Also, because the 50-40-90 Club is for shooting percentages over the course of one season, this option doesn’t make a whole lot of sense. Instead, we can use the sample proportion and sample size to do inference about the actual shooting percentages by constructing [confidence intervals](https://en.wikipedia.org/wiki/Confidence_interval) . A smaller margin of error is preferred because that means there is less uncertainty about where the true proportion falls.
 
-**With more attempts, it becomes less likely that players achieved a certain shooting percentage because of a few lucky (or unlucky) shots, and more likely that the player’s shooting percentage is representative of their skill.**
+{: .box-note}
+**Key Takeaway:** With more attempts, it becomes less likely that players achieved a certain shooting percentage because of a few lucky (or unlucky) shots, and more likely that the player’s shooting percentage is representative of their skill.
 
 ## What does this mean for how we evaluate players? 
 
@@ -55,6 +59,9 @@ But how much above the threshold to players have to shoot?
 Given a confidence interval, the actual shooting percentage can fall ANYWHERE in the confidence interval. We can't be any more confident about values closer to the observed proportion than values further away within the interval. Therefore, **it is important that the entire confidence interval be above the threshold for inclusion in the club to ensure that a player can actually shoot as well as the club dictates.** Even if the lower bound of the confidence interval is 0.01 below the threshold for inclusion in the club, we cannot confidently rule out the possibility that the player's actual shooting percentage is in that small range below the threshold for inclusion in the club. 
 
 So, how much better than the threshold will a player have to shoot to be admitted into the club? That will depend on the number of shots the player attempts. More shots attempted will lead to a narrower confidence interval, so the proportion observed won’t have to be as high for the lower bound of the confidence interval to be above the threshold for inclusion in the club. 
+
+{: .box-note}
+**Key Takeaway:** Players must actually shoot above the required thresholds for inclusion in the club in order to be 95% confident that their performance is actually above those thresholds.
 
 ## An Example
 
@@ -71,7 +78,10 @@ To more accurately reflect the actual skill of the player, club membership shoul
 
 When we take a look at the club this way, surprisingly, no player is qualified to be in the club. A few players currently in the club can qualify for one of the three types of shots, but no player can shoot at or above the cutoff for membership for all three types of shots with 95% confidence. 
 
-Table of All Players and Seasons claimed against Confidence Intervals:
+{: .box-note}
+**Key Takeaway:** No one makes the club.
+
+**Table of All Players and Seasons claimed against Confidence Intervals**
 
 | Player | Team | Season | FT % | FT confidence interval | FG % | FG confidence interval | 3P % | 3P confidence interval|
 | :------ |:--- | :--- |
@@ -79,9 +89,3 @@ Table of All Players and Seasons claimed against Confidence Intervals:
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
-
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
