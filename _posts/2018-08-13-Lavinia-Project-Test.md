@@ -93,4 +93,4 @@ When we take a look at the club this way, surprisingly, no player is qualified t
 |  |  |  |
 
 
-*Acknowledgements: Professor Emery N. Brown, Massachusetts Institute of Technology
+*Acknowledgements: Professor Emery N. Brown, Massachusetts Institute of Technology*
