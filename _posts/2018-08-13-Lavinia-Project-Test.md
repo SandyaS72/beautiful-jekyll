@@ -90,9 +90,9 @@ When we take a look at the club this way, surprisingly, no player is qualified t
 | Larry Bird | Boston Celtics | '86-'87 | 786/1497 (0.53) | (**0.4998**,0.5503) | 90/225 (0.40) | (**0.3360**,0.4640) | 414/455 (0.91) | (**0.8836**,0.9362) |
 | Larry Bird | Boston Celtics | '87-'88 | 881/1672 (0.53) | (**0.5030**,0.5508) | 98/237 (0.41) | (**0.3508**,0.4762) | 415/453 (0.92) | (**0.8906**,0.9416) |
 | Mark Price | Cleveland Cavaliers | '88-'89 | 529/1006 (0.53) | (**0.4950**,0.5567) | 93/211 (0.44) | (**0.3738**,0.5077) | 263/292 (0.90) | (**0.8664**,0.9350) |
-| Reggie Price | Indiana Pacers | '93-'94 |
-| Steve Nash | Phoenix Suns | '05-'06 |
-| Dirk Nowitzki | Dallas Mavericks | '06-'07 |
+| Reggie Miller | Indiana Pacers | '93-'94 | 524/1042 (0.50) | (**0.4725**,0.5332) | 123/292 (0.42) | (**0.3646**,0.4779) | 403/444 (0.91) | (**0.8807**,0.9346) | 
+| Steve Nash | Phoenix Suns | '05-'06 | 541/1056 (0.51) | (**0.4822**,0.5425) | 150/342 (0.44) | (**0.3860**,0.4912) | 257/279 (0.92) | (**0.8895**,0.9528) |
+| Dirk Nowitzki | Dallas Mavericks | '06-'07 | 673/1341 (0.50) | (**0.4751**,0.5286) | 72/173 (0.42) | (**0.3427**,0.4896) | 498/551 (0.90) | (**0.8792**,0.9284) |
 | Steve Nash | Phoenix Suns | '07-'08 |
 | Steve Nash | Phoenix Suns | '08-'09 |
 | Steve Nash | Phoenix Suns | '09-'10 |
