@@ -85,19 +85,19 @@ When we take a look at the club this way, surprisingly, no player is qualified t
 
 **Table of All Players and Seasons claimed against Confidence Intervals**
 
-| Player | Team | Season | FT % | 95% FT confidence interval | FG % | 95% FG confidence interval | 3P % | 95% 3P confidence interval|
+| Player | Team | Season | FG % | 95% FG confidence interval | 3P % | 95% 3P confidence interval | FT % | 95% FT confidence interval|
 | :------ |:--- | :--- |
-| Larry Bird | Boston Celtics |  |
-| Larry Bird | Boston Celtics |  |
-| Mark Price | Cleveland Cavaliers |  |
-| Reggie Price | Indiana Pacers |  |
-| Steve Nash | Phoenix Suns |
-| Dirk Nowitzki | Dallas Mavericks |
-| Steve Nash | Phoenix Suns |
-| Steve Nash | Phoenix Suns |
-| Steve Nash | Phoenix Suns |
-| Kevin Durant | Golden State Warriors |
-| Steph Curry | Golden State Warriors |
+| Larry Bird | Boston Celtics | '86-'87 | 786/1497 (0.53) | (0.4998,0.5503) | 90/225 (0.40) | (0.3360,0.4640) | 414/455 (0.91) | (0.8836,0.9362) |
+| Larry Bird | Boston Celtics | '87-'88 | 
+| Mark Price | Cleveland Cavaliers | '88-'89 |
+| Reggie Price | Indiana Pacers | '93-'94 |
+| Steve Nash | Phoenix Suns | '05-'06 |
+| Dirk Nowitzki | Dallas Mavericks | '06-'07 |
+| Steve Nash | Phoenix Suns | '07-'08 |
+| Steve Nash | Phoenix Suns | '08-'09 |
+| Steve Nash | Phoenix Suns | '09-'10 |
+| Kevin Durant | Golden State Warriors | '12-'13 |
+| Steph Curry | Golden State Warriors | '15-'16 |
 
 
 *Acknowledgements: Professor Emery N. Brown, Massachusetts Institute of Technology*
