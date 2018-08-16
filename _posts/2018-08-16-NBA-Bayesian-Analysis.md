@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is anyone really in the 50 40 90 club?
+title: The 50 40 90 club Part II: Bayesian analysis in more detail
 subtitle: Lavinia's summer project
 gh-repo: SandyaS72/SandyaS72.github.io
 gh-badge: [star, fork, follow]
