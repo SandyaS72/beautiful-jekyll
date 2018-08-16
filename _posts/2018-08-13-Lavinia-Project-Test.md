@@ -87,7 +87,7 @@ When we take a look at the club this way, surprisingly, no player is qualified t
 
 | Player | Team | Season | FG % | 95% FG confidence interval | 3P % | 95% 3P confidence interval | FT % | 95% FT confidence interval|
 | :------ |:--- | :--- |
-| Larry Bird | Boston Celtics | '86-'87 | 786/1497 (0.53) | (0.4998,0.5503) | 90/225 (0.40) | (0.3360,0.4640) | 414/455 (0.91) | (0.8836,0.9362) |
+| Larry Bird | Boston Celtics | '86-'87 | 786/1497 (0.53) | (**0.4998**,0.5503) | 90/225 (0.40) | (**0.3360**,0.4640) | 414/455 (0.91) | (**0.8836**,0.9362) |
 | Larry Bird | Boston Celtics | '87-'88 | 
 | Mark Price | Cleveland Cavaliers | '88-'89 |
 | Reggie Price | Indiana Pacers | '93-'94 |
