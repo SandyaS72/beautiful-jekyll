@@ -87,10 +87,17 @@ When we take a look at the club this way, surprisingly, no player is qualified t
 
 | Player | Team | Season | FT % | 95% FT confidence interval | FG % | 95% FG confidence interval | 3P % | 95% 3P confidence interval|
 | :------ |:--- | :--- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Larry Bird | Boston Celtics |  |
+| Larry Bird | Boston Celtics |  |
+| Mark Price | Cleveland Cavaliers |  |
+| Reggie Price | Indiana Pacers |  |
+| Steve Nash | Phoenix Suns |
+| Dirk Nowitzki | Dallas Mavericks |
+| Steve Nash | Phoenix Suns |
+| Steve Nash | Phoenix Suns |
+| Steve Nash | Phoenix Suns |
+| Kevin Durant | Golden State Warriors |
+| Steph Curry | Golden State Warriors |
 
 
 *Acknowledgements: Professor Emery N. Brown, Massachusetts Institute of Technology*
