@@ -29,6 +29,16 @@ Maybe you would be willing to bet on Player B making between 40 and 60 of his fi
 
 In the case of basketball scoring, what determines how certain (or uncertain) we are about a players scoring ability? When comparing Players A and B, we had less uncertainty about Player B’s scoring ability because he attempted more shots. For example, if Player B had made 5 out 100 shots, we would still be more certain about his scoring abilities than Player A’s, not because Player B made more shots, but because he attempted more. **Therefore, the uncertainty about a player’s scoring ability is based upon how many shots that player attempts, not the number of shots he makes.** 
 
+## Margin of error
+
+This is mathematically represented by the calculation for [margin of error](https://en.wikipedia.org/wiki/Margin_of_error) :
+	ME=1/\sqrt{n}
+where n is the number of shots attempted.
+	Player A: ME=110=0.3162
+	Player B: ME=1100=0.1
+What we arrived at earlier intuitively, we now demonstrate mathematically. For Player A, we can be reasonably certain that his actual shooting percentage is within 0.3 of 0.5, and for Player B we can be reasonably certain that his actual shooting percentage is within 0.1 of 0.5.
+
+
 Here is an example of two players' scores:
 
 ![Player A](https://lh3.googleusercontent.com/JZi4BOAjDwbWkv5dP4VrBU5yszZK0CXyBXrtnx_3yintCOI8rDyuFUN733JSI31bXr3gMbQ9Mv1wgfaLUjv5nMCXKkMh4Q8iDWTKFT52GmJsRD3c0fI0GMfAnrH6hbtcyVmXrFh1=w2400)
