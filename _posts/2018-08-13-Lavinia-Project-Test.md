@@ -83,7 +83,7 @@ When we take a look at the club this way, surprisingly, no player is qualified t
 
 **Table of All Players and Seasons claimed against Confidence Intervals**
 
-| Player | Team | Season | FT % | FT confidence interval | FG % | FG confidence interval | 3P % | 3P confidence interval|
+| Player | Team | Season | FT % | 95% FT confidence interval | FG % | 95% FG confidence interval | 3P % | 95% 3P confidence interval|
 | :------ |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
