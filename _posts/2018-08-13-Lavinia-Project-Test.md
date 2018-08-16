@@ -34,68 +34,54 @@ In the case of basketball scoring, what determines how certain (or uncertain) we
 This is mathematically represented by the calculation for [margin of error](https://en.wikipedia.org/wiki/Margin_of_error) :
 	\\[ ME=\frac{1}{\sqrt{n}} \\]
 where n is the number of shots attempted.
-	\\[ Player A: ME=110=0.3162 \\]
-	\\[ Player B: ME=1100=0.1 \\]
-What we arrived at earlier intuitively, we now demonstrate mathematically. For Player A, we can be reasonably certain that his actual shooting percentage is within 0.3 of 0.5, and for Player B we can be reasonably certain that his actual shooting percentage is within 0.1 of 0.5.
+	\\[ Player  A: ME=110=0.3162 \\]
+	\\[ Player  B: ME=1100=0.1 \\]
+What we arrived at earlier intuitively, we now demonstrate mathematically. For Player A, we can only be reasonably certain that his actual shooting percentage is within 0.3 of 0.5, but for Player B we can be reasonably certain that his actual shooting percentage is within 0.1 of 0.5.
 
+## Confidence intervals
 
-Here is an example of two players' scores:
+Because there is a degree of uncertainty that comes from taking just one sample, the margin of error says how much in either direction of the sample proportion our interval extends so that we can be 95% confident that, given the size of our one sample, the actual shooting percentage is in our interval. 95% confidence means that if we were to repeat random samples of the same size for our proportion of interest, 95% of them would capture the true proportion. 
+
+If we were REALLY invested in figuring out the actual shooting percentages of Players A and B, we could take an infinite number of random samples of the same size. However, not only would this be extremely inconvenient, it would be outright impossible. Also, because the 50-40-90 Club is for shooting percentages over the course of one season, this option doesn’t make a whole lot of sense. Instead, we can use the sample proportion and sample size to do inference about the actual shooting percentages by constructing [confidence intervals](https://en.wikipedia.org/wiki/Confidence_interval) . A smaller margin of error is preferred because that means there is less uncertainty about where the true proportion falls.
+
+**With more attempts, it becomes less likely that players achieved a certain shooting percentage because of a few lucky (or unlucky) shots, and more likely that the player’s shooting percentage is representative of their skill.**
+
+## What does this mean for how we evaluate players? 
+
+If a player just barely makes 50% of field goals or 90% of free throws, given the amount of uncertainty, we are not sure that they can actually shoot that well. We want to be 95% confident (read “reasonably certain”) that players can shoot at or above the threshold for inclusion in the club, to ensure that membership isn’t just granted based on a few lucky shots, but actual shooting ability. **However, for this to be true, players actually have to shoot above the threshold.**
+
+But how much above the threshold to players have to shoot?
+
+Given a confidence interval, the actual shooting percentage can fall ANYWHERE in the confidence interval. We can't be any more confident about values closer to the observed proportion than values further away within the interval. Therefore, **it is important that the entire confidence interval be above the threshold for inclusion in the club to ensure that a player can actually shoot as well as the club dictates.** Even if the lower bound of the confidence interval is 0.01 below the threshold for inclusion in the club, we cannot confidently rule out the possibility that the player's actual shooting percentage is in that small range below the threshold for inclusion in the club. 
+
+So, how much better than the threshold will a player have to shoot to be admitted into the club? That will depend on the number of shots the player attempts. More shots attempted will lead to a narrower confidence interval, so the proportion observed won’t have to be as high for the lower bound of the confidence interval to be above the threshold for inclusion in the club. 
+
+## An Example
+
+Looking at the confidence intervals for Players A and B below, we see that we can be reasonably certain that Player A makes above 19% of field goals and Player B makes above 40% of field goals, but, as discussed, this is not good enough to qualify for the 50% required by the club. 
 
 ![Player A](https://lh3.googleusercontent.com/JZi4BOAjDwbWkv5dP4VrBU5yszZK0CXyBXrtnx_3yintCOI8rDyuFUN733JSI31bXr3gMbQ9Mv1wgfaLUjv5nMCXKkMh4Q8iDWTKFT52GmJsRD3c0fI0GMfAnrH6hbtcyVmXrFh1=w2400)
 
 
 ![Player B](https://lh3.googleusercontent.com/0Jv_oPqwTic94Z7vGUbTggO5uk4GlHr5laI_zLynNOUI-OVp-d_PMOrUdVpnzzPaLvX1s_6L__G6E_FB72_c2jwiZPbSyu5TYIR7kpmWXnAKv0RVFCu6636-S_13lsBvORV5iWqI=w2400)
 
-Here's a useless table:
+## The Bottom Line
 
-| Number | Next number | Previous number |
+To more accurately reflect the actual skill of the player, club membership should be defined in terms of the uncertainty (or lack thereof) around players’ performances in a season. This can be done using a confidence interval, which defines a range in which we are reasonably sure the player’s actual skill resides. Using confidence intervals inherently takes into account the number of shots attempted, since players who attempt fewer shots have to achieve a performance much higher than the cutoff to qualify, while players who attempt more shots decrease uncertainty and narrow that margin. Most importantly, this approach indicates our certainty in a player’s skill level, without just granting club membership based on a few lucky shots. 
+
+When we take a look at the club this way, surprisingly, no player is qualified to be in the club. A few players currently in the club can qualify for one of the three types of shots, but no player can shoot at or above the cutoff for membership for all three types of shots with 95% confidence. 
+
+Table of All Players and Seasons claimed against Confidence Intervals:
+
+| Player | Team | Season | FT % | FT confidence interval | FG % | FG confidence interval | 3P % | 3P confidence interval|
 | :------ |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
 
 ### Notification
 
 {: .box-note}
 **Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
