@@ -85,7 +85,7 @@ When we take a look at the club this way, surprisingly, no player is qualified t
 
 | Player | Team | Season | FT % | 95% FT confidence interval | FG % | 95% FG confidence interval | 3P % | 95% 3P confidence interval|
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
